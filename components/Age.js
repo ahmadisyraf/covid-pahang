@@ -291,7 +291,7 @@ const Age = () => {
                         "cases_child",
                         "cases_adolescent",
                         "cases_adult",
-                        "cases_eldery",
+                        "cases_elderly",
                     ]}
                     colors={["blue", "teal", "amber", "rose"]}
                     valueFormatter={undefined}

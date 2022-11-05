@@ -5,6 +5,7 @@ import State from '../components/State';
 import Vax from '../components/Vax';
 import Age from '../components/Age';
 import { Grid, Box } from "@mui/material";
+import { Title, Subtitle } from '@tremor/react';
 
 
 export default function Home() {
