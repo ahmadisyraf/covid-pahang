@@ -282,7 +282,7 @@ const Vax = () => {
             <Card maxWidth="max-w-lg max-w-md max-w-sm" decoration="top" decorationColor="indigo">
                     <Title>New COVID-19 cases based on vaccination in Pahang (Oct - Nov)</Title>
                     <Subtitle>
-                        Data based on Malaysia Ministry of Health (MMOH)
+                        Data based on Ministry of Health Malaysia
                     </Subtitle>
                 <AreaChart
                     data={chartdata}

@@ -282,7 +282,7 @@ const Age = () => {
             <Card maxWidth="max-w-lg max-w-md max-w-sm" decoration="top" decorationColor="indigo" marginTop="mt-10">
                 <Title>COVID-19 Cases based on age in Pahang (Oct - Nov)</Title>
                 <Subtitle>
-                    Data based on Malaysia Ministry of Health (MMOH)
+                    Data based on Ministry of Health Malaysia
                 </Subtitle>
                 <BarChart
                     data={chartdata}

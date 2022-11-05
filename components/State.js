@@ -146,7 +146,7 @@ const State = () => {
             <Card maxWidth="max-w-lg max-w-md max-w-sm" decoration="top" decorationColor="indigo">
                 <Title>New COVID-19 Cases in Pahang (Oct - Nov)</Title>
                 <Subtitle>
-                    Data based on Malaysia Ministry of Health (MMOH)
+                    Data based on Ministry of Health Malaysia
                 </Subtitle>
                 <LineChart
                     data={chartdata}

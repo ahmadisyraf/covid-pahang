@@ -7,6 +7,18 @@ import Age from '../components/Age';
 import { Grid, Box } from "@mui/material";
 import { Title, Subtitle } from '@tremor/react';
 
+function MetaHeader() {
+  return (
+    <Head>
+      <title>Covid Pahang</title>
+      <meta name="description" content="Data from Ministry of Health Malaysia" />
+      <meta itemprop="name" content="COVID-19 cases in Pahang" />
+      <meta itemprop="description" content="Data from Ministry of Health Malaysia" />
+      <meta itemprop="image" content="https://images.unsplash.com/photo-1581267852726-c0bcbadc1aac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2832&q=80" />
+    </Head>
+
+  );
+}
 
 export default function Home() {
   return (
