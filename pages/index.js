@@ -16,6 +16,7 @@ function MetaHeader() {
       <meta itemprop="description" content="Data from Ministry of Health Malaysia" />
       <meta itemprop="image" content="https://images.unsplash.com/photo-1581267852726-c0bcbadc1aac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2832&q=80" />
 
+      <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content="COVID-19 cases in Pahang" />
       <meta name="twitter:description" content="Data from Ministry of Health Malaysia" />
       <meta name="twitter:image" content="https://images.unsplash.com/photo-1581267852726-c0bcbadc1aac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2832&q=80" />
